@@ -1,4 +1,4 @@
-# Minesweeper – C++ & Qt
+# Minesweeper C++ & Qt
 
 A graphical Minesweeper game developed with **C++ and the Qt framework**. The project demonstrates object-oriented programming, GUI development, event handling, and game logic.
 
